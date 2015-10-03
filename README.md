@@ -1,4 +1,3 @@
-# Ruby-refresher
-
-Several exercises reviewing Ruby methodology, OOP, PostgreSQL, Active Record and more.
 # fizzbuzz
+
+Fizzbuzz code challenge in serveral coding languages, such as: Javascript, Ruby, PHP, Python, etc.
